@@ -1,0 +1,529 @@
+{
+  "main": {
+    "id": "eea8bcd593d527b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "602570cc171dfe96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "422207fdce40acf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/00_horse (The Collective Affect).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_horse (The Collective Affect)"
+            }
+          },
+          {
+            "id": "3d958990b2b4c742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/01_the horse (The Commodified Object).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_the horse (The Commodified Object)"
+            }
+          },
+          {
+            "id": "4a051404203fa3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/02_inner horse (The Authentic Drive).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_inner horse (The Authentic Drive)"
+            }
+          },
+          {
+            "id": "1500c657807cb523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/03_dolphins (The Architect-Exploiters).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_dolphins (The Architect-Exploiters)"
+            }
+          },
+          {
+            "id": "b825be84660ce2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/00_horse (The Collective Affect).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_horse (The Collective Affect)"
+            }
+          },
+          {
+            "id": "0bf1bab472317317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XX_The Reclaimed End/00_the alchemical shift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_the alchemical shift"
+            }
+          },
+          {
+            "id": "1e1f0e4e9cd086bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XX_The Reclaimed End/XX_sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XX_sources"
+            }
+          },
+          {
+            "id": "b39688aa43d9b05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XX_The Reclaimed End/01_glue distinctions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_glue distinctions"
+            }
+          },
+          {
+            "id": "acd0ed491f1a045c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XX_The Reclaimed End/02_the final act ritual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_the final act ritual"
+            }
+          },
+          {
+            "id": "6d87519e7a627dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Ketamine/00_the bridge vs the solvent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_the bridge vs the solvent"
+            }
+          },
+          {
+            "id": "eb889bcae292ef61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Ketamine/01_application and use.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_application and use"
+            }
+          },
+          {
+            "id": "01eebc01113959f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Ketamine/XX_sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XX_sources"
+            }
+          },
+          {
+            "id": "7c9ce3fab57d7510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Ketamine/XX_sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XX_sources"
+            }
+          },
+          {
+            "id": "0915074611832440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_The Dolphin Apparatus/XX_Supression of horse/00_blinders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_blinders"
+            }
+          },
+          {
+            "id": "dd09fb8e45789607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_The Dolphin Apparatus/XX_Supression of horse/XX_sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XX_sources"
+            }
+          },
+          {
+            "id": "1b5975938b13f304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/00_horse (The Collective Affect).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_horse (The Collective Affect)"
+            }
+          },
+          {
+            "id": "d6fa1a4cf70d0a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_The Dolphin Apparatus/XX_Supression of horse/XX_sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XX_sources"
+            }
+          },
+          {
+            "id": "da8dd28fce50c357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_The Dolphin Apparatus/XX_sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XX_sources"
+            }
+          },
+          {
+            "id": "fbb008729c85566c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/XX_sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XX_sources"
+            }
+          },
+          {
+            "id": "8f31aa35f1359b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_The Dolphin Apparatus/XX_Supression of horse/01_the fence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_the fence"
+            }
+          },
+          {
+            "id": "34ff27cda3d47db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_The Estrogen Transfer/00_the trans equine horizon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_the trans equine horizon"
+            }
+          },
+          {
+            "id": "f7c0204ae2fd02b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_The Estrogen Transfer/00_the trans equine horizon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_the trans equine horizon"
+            }
+          },
+          {
+            "id": "52c65459a036502d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_The Ontological Trinity/03_dolphins (The Architect-Exploiters).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_dolphins (The Architect-Exploiters)"
+            }
+          }
+        ],
+        "currentTab": 22
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfae48a5c8214e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "264a26d159b939a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cafa90dd07367197",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4abf819fd58f708e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c211c21446e6b06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b09bc60de6f917b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0463125bbfac6888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8099a0d6378e26a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_The Ontological Trinity/03_dolphins (The Architect-Exploiters).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03_dolphins (The Architect-Exploiters)"
+            }
+          },
+          {
+            "id": "fcb352db7dfe39c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_The Ontological Trinity/03_dolphins (The Architect-Exploiters).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03_dolphins (The Architect-Exploiters)"
+            }
+          },
+          {
+            "id": "517681ab34b0c9c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4551913d5b13ca91",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4688ca8dd93859e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_The Ontological Trinity/03_dolphins (The Architect-Exploiters).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_dolphins (The Architect-Exploiters)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "52c65459a036502d",
+  "lastOpenFiles": [
+    "00_The Ontological Trinity/00_horse (The Collective Affect).md",
+    "XX_The Reclaimed End/00_the alchemical shift.md",
+    "[00_the.md",
+    "00_the.md",
+    "XX_The Reclaimed End/02_the final act ritual.md",
+    "XX_The Reclaimed End/XX_sources.md",
+    "02_The Dolphin Apparatus/01_manufactured boundaries.md",
+    "01_Ketamine/00_the bridge vs the solvent.md",
+    "00_The Ontological Trinity/04_herd vs the herd.md",
+    "00_The Ontological Trinity/03_dolphins (The Architect-Exploiters).md",
+    "00_The Ontological Trinity/02_inner horse (The Authentic Drive).md",
+    "00_The Ontological Trinity/01_the horse (The Commodified Object).md",
+    "03_The Estrogen Transfer/00_the trans equine horizon.md",
+    "03_The Estrogen Transfer/01_reclaiming the estrogen.md",
+    "03_The Estrogen Transfer/XX_sources.md",
+    "02_The Dolphin Apparatus/XX_Supression of horse/01_the fence.md",
+    "03_The Estrogen Transfer",
+    "02_The Dolphin Apparatus/XX_Supression of horse/XX_sources.md",
+    "00_The Ontological Trinity/XX_sources.md",
+    "02_The Dolphin Apparatus/XX_sources.md",
+    "02_The Dolphin Apparatus/00_the fragility of the dolphin.md",
+    "02_The Dolphin Apparatus",
+    "02_The Dolphin Apparatus/XX_Supression of horse/00_blinders.md",
+    "01_Ketamine/01_application and use.md",
+    "01_Ketamine/XX_sources.md",
+    "02_The Dolphin Apparatus/XX_Supression of horse",
+    "01_Ketamine/02_k-hole vs horse-whole.md",
+    "01_Ketamine",
+    "XX_The Reclaimed End/01_glue distinctions.md",
+    "XX_The Reclaimed End",
+    "00_The Ontological Trinity"
+  ]
+}

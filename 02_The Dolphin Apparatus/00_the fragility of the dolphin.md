@@ -1,0 +1,3 @@
+Dolphins are "Aqueous Elite." They require the **Fluid of Capital** to move. On the solid ground of "horse" truth, they are stranded. The Muzzle-Blinders are their only way to keep the ground from feeling solid under the horse's hooves.
+
+(define the "Solid Ground" (the reality of the horse) versus the "Flood" (the Dolphin's economic environment) Maybe look at how the "Reclaimed Glue" can be used to "gum up" the Dolphin's machinery)
