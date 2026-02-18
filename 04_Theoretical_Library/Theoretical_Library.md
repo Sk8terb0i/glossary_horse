@@ -121,3 +121,46 @@
 ### On the Simulation of Connection
 
 - **Jean Baudrillard (_Simulacra and Simulation_):** The socialization allowed by [[the fence]] is a **Simulacrum** of [[herd]]. It looks like connection but serves the [[dolphins|Dolphin’s]] economy.
+    
+
+### On the Oversoul ([[big horse]])
+
+- **Baruch Spinoza (_Ethics_):** Spinoza argues that God and Nature are the same substance (**Pantheism / Deus sive Natura**). [[big horse]] is the "Substance" of this universe—it is not outside of us, but is the very fabric of our connection.
+    
+- **Émile Durkheim (_The Elementary Forms of Religious Life_):** He argues that when a group worships a god, they are actually worshipping the power of their own social collective (**The Totem**). [[big horse]] is the honest recognition of this power, while "the big horse" is the Dolphin's attempt to hijack that totem for control.
+    
+- **Gilles Deleuze & Félix Guattari (_A Thousand Plateaus_):** Defines the conflict of **The Rhizome vs. The Tree**. [[big horse]] is rhizomatic—it has no center and spreads everywhere. "the big horse" is the Dolphin's attempt to force it into a "Tree" structure with a trunk (authority) and roots (the past).
+    
+
+### On [[Ethical Hedonism]] and the Three Fs
+
+- **Epicurus:** Proponent of the absence of pain in the body and trouble in the soul. He argued for a simple life of friends and thought, which aligns with the **Three Fs** (Foraging, Friends, Freedom) as the only true requirements for a meaningful, non-exploitative existence.
+    
+- **Peter Kropotkin (_Mutual Aid_):** Kropotkin argued that cooperation and mutual support, rather than competition, are the primary drivers of evolutionary success. This serves as the biological and social foundation for **Friends** as a core pillar of [[herd]].
+    
+- **Michel Foucault (_The Use of Pleasure_):** Explores the ethics of how individuals manage their own desires and pleasures. This supports the concept of **Ethical Hedonism** as a deliberate, self-governed practice of joy that rejects Dolphin-mandated "Cheap Hedonism."
+
+
+### On [[collective neigh]] and Resonance
+
+- **Émile Durkheim (_Collective Effervescence_):** Durkheim describes the feeling of being "lifted up" and unified when a group performs a ritual together. **collective neigh** is the horse's version of this effervescence—the moment when the social group realizes its own power as a singular force.
+    
+- **Jacques Attali (_Noise: The Political Economy of Music_):** Attali argues that "noise" is a way of announcing a new social order. **collective neigh** is the "noise" that disrupts the Dolphin's quiet management and announces the reclamation of [[solid ground]].
+    
+- **Elias Canetti (_Crowds and Power_):** Canetti speaks of **"The Discharge"**—the moment when all who belong to a crowd get rid of their differences and feel equal. This discharge is carried on the wind of **collective neigh**, dissolving the hierarchy of [[the herd]].
+
+
+### On the Absence of Essence ([[not horse]])
+
+- **Mark Fisher (_Capitalist Realism_):** Fisher describes the "slow cancellation of the future" and the systemic inability to imagine alternatives to the current order. **not horse** is the ontological manifestation of this state—it is the belief that there is nothing beneath the water of [[the flood]] and no life beyond the management of [[dolphins]].
+    
+- **Jean Baudrillard (_Simulacra and Simulation_):** **not horse** is the state of living entirely within the **Simulacrum**. It is the preference for the map (Dolphin rules and status markers) over the actual territory of [[solid ground]]. In this state, the simulation of connection provided by [[the fence]] is accepted as the only available reality.
+    
+- **Herbert Marcuse (_One-Dimensional Man_):** Marcuse defines a society where individuals lose the ability to think critically or rebel because their needs are pre-defined by the system. **not horse** is this "One-Dimensional" existence, where the potential for [[galloping]] is traded for the comforts of managed paddocks and "just enough" enrichment.
+
+
+### The Spectrum of Essence
+
+- **Jean Baudrillard:** The distinction between the Orange and Blue Mate is a classic example of the **Precession of Simulacra**. The Blue Mate has no referent in [[horse]] reality; it is a flavor of [[the flood]]
+    
+- **Walter Benjamin (_The Work of Art in the Age of Mechanical Reproduction_):** Kelly Clarkson pre-2017 possessed an "Aura" of [[horse]]. Post-2017, the reproduction of her image within the Dolphin talk-show format has led to the decay of that Aura, resulting in a state of **not horse**.
