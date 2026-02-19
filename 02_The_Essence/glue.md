@@ -1,3 +1,5 @@
+#both-worlds 
+
 ## The Act of "Binding"
 Binding is the sacred opposite of the Dolphins' **Dividing**.
 - **Dolphin Binding:** Using "the horse" to create profit-driven connections (contracts, debt, fences).
@@ -8,7 +10,7 @@ Binding is the sacred opposite of the Dolphins' **Dividing**.
 There are two types of adhesive in this universe, determined by the **intent of the time** harvested.
 
 - **Dolphin Glue:** Made from **stolen time**. It is created by killing the horse before its time to maximize profit or because its "utility" has ended. It is a brittle, cold substance that binds through force and ownership.
-- **Horse Glue:** Made from **honored time**. It is harvested only after the horse has completed its final [[gallop]]. This glue is warm, flexible, and holds the [[herd]] together through the power of the "Gift."
+- **Horse Glue:** Made from **honored time**. It is harvested only after the horse has completed its final [[galloping|gallop]]. This glue is warm, flexible, and holds the [[herd]] together through the power of the "Gift."
 
 
 ## Lore Addition

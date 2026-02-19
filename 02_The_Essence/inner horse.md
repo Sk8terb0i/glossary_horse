@@ -1,4 +1,4 @@
-**Status:** The Compass
+**Status:** The Compass / #horse 
 
 ## Definition
 The internal compass. One does not "own" an inner horse; one *listens* to it.

@@ -1,4 +1,4 @@
-**Status:** Tool of Isolation
+**Status:** Tool of Isolation / #the
 
 ## Definition
 A sensory cage that restricts the visual field to the "Project" or the "Paycheck." 

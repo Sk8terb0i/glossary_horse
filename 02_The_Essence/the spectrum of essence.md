@@ -1,3 +1,5 @@
+#both-worlds 
+
 | **Entity**                     | **Classification** | **Lore Connection**                                                                   |
 | ------------------------------ | ------------------ | ------------------------------------------------------------------------------------- |
 | **Dorian Pavus**               | [[horse]]          | Defiance of [[the pedigree]] and commitment to [[inner horse]] truth.                 |

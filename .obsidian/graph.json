@@ -5,18 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: #horse  ",
+      "color": {
+        "a": 1,
+        "rgb": 11502832
+      }
+    },
+    {
+      "query": "tag:#the  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#not-horse  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#both-worlds  ",
+      "color": {
+        "a": 1,
+        "rgb": 16136697
+      }
+    },
+    {
+      "query": "tag:#theory  ",
+      "color": {
+        "a": 1,
+        "rgb": 10537660
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 0.837543252595156,
+  "lineSizeMultiplier": 0.227162629757785,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9201556625327789,
+  "scale": 0.8410179675191083,
   "close": true
 }

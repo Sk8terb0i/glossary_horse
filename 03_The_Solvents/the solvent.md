@@ -1,4 +1,4 @@
-**AKA:** Ketamine
+**AKA:** Ketamine / #both-worlds 
 ## Definition
 A molecular "key" that temporarily dissolves the rigid boundaries of [[the horse]] (the physical/commodified self) to allow a return to [[horse]] (the conceptual/collective).
 

@@ -6,7 +6,7 @@
       {
         "id": "602570cc171dfe96",
         "type": "tabs",
-        "dimension": 79.51263537906136,
+        "dimension": 71.38989169675091,
         "children": [
           {
             "id": "3371c7caea2cddef",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_The_Essence/the spectrum of essence.md",
+                "file": "01_The_Apparatus/herd vs the herd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the spectrum of essence"
+              "title": "herd vs the herd"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "60b34407ceff54eb",
         "type": "tabs",
-        "dimension": 20.487364620938628,
+        "dimension": 28.6101083032491,
         "children": [
           {
             "id": "27907b399a2ac470",
@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START_HERE.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "START_HERE"
+              "title": "index"
             }
           },
           {
@@ -57,7 +57,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,34 +221,34 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "3371c7caea2cddef",
+  "active": "3dfcfe10321845c7",
   "lastOpenFiles": [
-    "04_Theoretical_Library/Theoretical_Library.md",
-    "02_The_Essence/the spectrum of essence.md",
-    "00_Manifesto/Manifesto.md",
-    "START_HERE.md",
-    "not horse.md",
-    "01_The_Apparatus/the fence.md",
-    "02_The_Essence/herd.md",
-    "02_The_Essence/inner horse.md",
     "01_The_Apparatus/herd vs the herd.md",
-    "01_The_Apparatus/the herd.md",
-    "01_The_Apparatus/the breed.md",
-    "03_The_Solvents/horse-whole.md",
-    "03_The_Solvents/the solvent.md",
-    "01_The_Apparatus/the horse.md",
     "01_The_Apparatus/blinders.md",
-    "02_The_Essence/horse.md",
-    "02_The_Essence/reclaimed factory.md",
+    "index.md",
+    "01_The_Apparatus/the fence.md",
+    "01_The_Apparatus/the elite horse.md",
+    "01_The_Apparatus/the breed.md",
+    "04_Theoretical_Library/Theoretical_Library.md",
+    "00_Manifesto/Manifesto.md",
     "02_The_Essence/glue.md",
     "02_The_Essence/galloping.md",
+    "02_The_Essence/the spectrum of essence.md",
+    "03_The_Solvents/the solvent.md",
+    "03_The_Solvents/horse-whole.md",
+    "02_The_Essence/reclaimed factory.md",
+    "02_The_Essence/inner horse.md",
+    "02_The_Essence/ethical hedonism.md",
+    "01_The_Apparatus/not horse.md",
+    "freedom.md",
+    "01_The_Apparatus/dolphins.md",
+    "02_The_Essence/herd.md",
+    "01_The_Apparatus/the herd.md",
+    "01_The_Apparatus/the horse.md",
+    "02_The_Essence/horse.md",
     "01_The_Apparatus/the pedigree.md",
     "01_The_Apparatus/the ribbon.md",
     "01_The_Apparatus/the work horse.md",
-    "01_The_Apparatus/the elite horse.md",
-    "01_The_Apparatus/the flood.md",
-    "01_The_Apparatus/dolphins.md",
-    "02_The_Essence/solid ground.md",
     "04_Theoretical_Library",
     "03_The_Solvents",
     "02_The_Essence",

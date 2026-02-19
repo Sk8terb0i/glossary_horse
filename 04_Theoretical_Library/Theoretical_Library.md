@@ -1,3 +1,5 @@
+#theory 
+
 ### On [[the horse]] as Commodity
 
 - **Karl Marx (_Capital, Vol. 1_):** Specifically the chapter on **Commodity Fetishism**. This explains exactly how the "horse" (the living connection) is transformed into "the horse" (the thing with a price tag).
@@ -132,7 +134,7 @@
 - **Gilles Deleuze & Félix Guattari (_A Thousand Plateaus_):** Defines the conflict of **The Rhizome vs. The Tree**. [[big horse]] is rhizomatic—it has no center and spreads everywhere. "the big horse" is the Dolphin's attempt to force it into a "Tree" structure with a trunk (authority) and roots (the past).
     
 
-### On [[Ethical Hedonism]] and the Three Fs
+### On [[ethical hedonism]] and the Three Fs
 
 - **Epicurus:** Proponent of the absence of pain in the body and trouble in the soul. He argued for a simple life of friends and thought, which aligns with the **Three Fs** (Foraging, Friends, Freedom) as the only true requirements for a meaningful, non-exploitative existence.
     
@@ -164,3 +166,12 @@
 - **Jean Baudrillard:** The distinction between the Orange and Blue Mate is a classic example of the **Precession of Simulacra**. The Blue Mate has no referent in [[horse]] reality; it is a flavor of [[the flood]]
     
 - **Walter Benjamin (_The Work of Art in the Age of Mechanical Reproduction_):** Kelly Clarkson pre-2017 possessed an "Aura" of [[horse]]. Post-2017, the reproduction of her image within the Dolphin talk-show format has led to the decay of that Aura, resulting in a state of **not horse**.
+
+
+### Ethical Hedonism
+
+- **Epicurus:** Often misunderstood as a proponent of mindless indulgence, Epicurus actually argued for a simple life defined by the absence of pain (_aponia_) and the presence of friends. This aligns with the **Three Fs** as the foundation of a stable, happy life.
+    
+- **Audre Lorde (_The Uses of the Erotic_):** Lorde argues that the erotic is a "resource within each of us that lies in a deeply female and spiritual plane." She views the pursuit of this deep feeling as a way to demand excellence from all aspects of life, acting as a bridge against oppressive systems.
+    
+- **Michel Foucault (_The Use of Pleasure_):** Foucault explores how individuals can turn their own lives into a "work of art" through the ethical management of pleasure. This is the core of [[ethical hedonism]]—becoming the architect of one’s own satisfaction rather than a consumer of Dolphin distractions.

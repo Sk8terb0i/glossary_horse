@@ -1,3 +1,5 @@
+#theory
+
 # The Manifesto of the Herd
 
 **Everything is either horse or not horse.** To be [[horse]] is to be the social [[glue]] the connection that exists in the marrow before the fences were built. It is the vibrational resonance of [[herd]], a truth that requires no name and no owner. 
